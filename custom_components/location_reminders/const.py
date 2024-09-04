@@ -1,0 +1,1 @@
+DOMAIN = 'location_reminders'

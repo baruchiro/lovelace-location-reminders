@@ -1,0 +1,11 @@
+{
+    "domain": "location_reminders",
+    "name": "Location Reminder",
+    "documentation": "https://github.com/baruchiro/lovelace-location-reminders",
+    "issue_tracker": "https://github.com/baruchiro/lovelace-location-reminders/issues",
+    "version": "0.1",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@baruchiro"]
+  }
+  
